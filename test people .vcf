@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:test;people;;;
+FN:people test
+ADR;TYPE=pref:;;;;;;
+TITLE:test
+ORG:
+BDAY:20010424
+NOTE:
+TEL:9865986598
+EMAIL:test@gmail.com
+END:VCARD
